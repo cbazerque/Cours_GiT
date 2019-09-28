@@ -3,4 +3,6 @@ def SayHello():
     print("Hello, fellow student !")
 
 SayHello()
+SayHello()
+
           
